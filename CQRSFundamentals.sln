@@ -16,11 +16,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "img", "img", "{4C28A3DF-09BC-4674-BFEA-07BF0602F487}"
-	ProjectSection(SolutionItems) = preProject
-		..\CQRS\CQRSFundamentals.jpg = ..\CQRS\CQRSFundamentals.jpg
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,7 +42,6 @@ Global
 		{8F3208BF-8E01-4116-810C-BAAC70C36C16} = {57B948E0-58CC-4FE6-B5E2-6DF3B06EA746}
 		{8283E7C0-755E-4E17-ABC8-4DCAA94EB283} = {57B948E0-58CC-4FE6-B5E2-6DF3B06EA746}
 		{70C85D74-E700-48C1-B5D1-2113B537A660} = {57B948E0-58CC-4FE6-B5E2-6DF3B06EA746}
-		{4C28A3DF-09BC-4674-BFEA-07BF0602F487} = {A59A343C-67EF-4574-86F2-1C531BC085DF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4784B7B5-C75A-44BF-B6C2-57D196392147}

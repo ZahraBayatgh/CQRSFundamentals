@@ -14,5 +14,5 @@ that I wrote, in persian.
 
 | CQRS Fundamentals |
 | ------------|
-| [![](img/CQRSFundamentals.jpg)](https://github.com/ZahraBayatgh/CQRSFundamentals/raw/master/CQRSFundamentals.pdf) | [![](img/CQRSFundamentals.png)](https://aka.ms/dockerlifecycleebook) | [![](img/aspnetcover.png)](https://github.com/ZahraBayatgh/CQRSFundamentals/raw/master/CQRSFundamentals.pdf) |
+| [![](img/CQRSFundamentals.jpg)](https://github.com/ZahraBayatgh/CQRSFundamentals/raw/master/CQRSFundamentals.pdf) | [![](img/CQRSFundamentals.jpg)](https://aka.ms/dockerlifecycleebook) | [![](img/CQRSFundamentals.jpg)](https://github.com/ZahraBayatgh/CQRSFundamentals/raw/master/CQRSFundamentals.pdf) |
 | <sup> <a href='https://github.com/ZahraBayatgh/CQRSFundamentals/raw/master/CQRSFundamentals.pdf'>**Download .PDF**</a> </sup>  
